@@ -8,11 +8,11 @@
 
 ## 📋 Sobre o Projeto
 
-[cite_start]"Mobilidade não é apenas sobre movimento, é sobre acesso." [cite: 399]
+Mobilidade não é apenas sobre movimento, é sobre acesso.
 
 Este projeto explora o conceito de **Justiça Espacial** através da análise de dados geográficos. O objetivo foi quantificar o "Gap de Acessibilidade": a diferença de oportunidades alcançáveis em 30 minutos por transporte privado (carro) *versus* transporte público ou ativo.
 
-[cite_start]Utilizando dados do **Censo IBGE 2022** e infraestrutura do **OpenStreetMap (OSM)**, analisamos três arquétipos urbanos brasileiros para responder: *A infraestrutura dita o tempo de deslocamento ou o modal é o fator determinante de exclusão?* [cite: 402]
+Utilizando dados do **Censo IBGE 2022** e infraestrutura do **OpenStreetMap (OSM)**, analisamos três arquétipos urbanos brasileiros para responder: *A infraestrutura dita o tempo de deslocamento ou o modal é o fator determinante de exclusão?* 
 
 ### 🏙️ Estudos de Caso e Resultados
 
@@ -26,9 +26,9 @@ Este projeto explora o conceito de **Justiça Espacial** através da análise de
 
 ## 🛠️ A "Cozinha" Geoespacial (Tech Stack)
 
-[cite_start]A análise foi realizada combinando três técnicas de geoprocessamento[cite: 409, 413, 421]:
+A análise foi realizada combinando três técnicas de geoprocessamento:
 
-1.  **Análise de Rede (Isochrones):** Utilização da **TravelTime API** para calcular polígonos de alcance de 30 minutos a partir dos centros urbanos.
+1.  **Análise de Rede (Isochrones):** Utilização da **TravelTime API** para calcular polígonos de alcance de 30 minutos a partir dos centros urbanos (zonas de trabalho).
 2.  **Processamento Vetorial (PostGIS/SQL):**
     * Uso de índices espaciais para performance.
     * Filtragem de infraestrutura viária e barreiras naturais.
@@ -36,9 +36,9 @@ Este projeto explora o conceito de **Justiça Espacial** através da análise de
 3.  **Análise de Sobreposição (Heatmaps):** Identificação de padrões de densidade populacional vs. infraestrutura no **QGIS 3.x**.
 
 ### Ferramentas:
-* [cite_start]**Banco de Dados:** PostgreSQL com extensão **PostGIS**[cite: 414].
-* [cite_start]**GIS Desktop:** QGIS 3.x[cite: 415].
-* [cite_start]**Dados:** IBGE (Demografia), OSM (Vias), SRTM Downloader (Relevo)[cite: 411, 412, 417].
+* **Banco de Dados:** PostgreSQL com extensão **PostGIS**.
+* **GIS Desktop:** QGIS 3.
+* **Dados:** IBGE (Demografia), OSM (Vias), SRTM Downloader (Relevo).
 
 ---
 
@@ -46,7 +46,7 @@ Este projeto explora o conceito de **Justiça Espacial** através da análise de
 
 *(Sugestão: Insira aqui as imagens dos mapas comparativos gerados no projeto, especialmente as manchas vermelhas vs. amarelas mostradas no relatório)*
 
-> **Exemplo - São Paulo:** A mancha vermelha representa a área acessível apenas de carro em 30 min. A amarela, acessível por transporte público. [cite_start]A diferença (467km²) ilustra a exclusão social imposta pela malha urbana. [cite: 436]
+> **Exemplo - São Paulo:** A mancha vermelha representa a área acessível apenas de carro em 30 min. A amarela, acessível por transporte público. A diferença (467km²) ilustra a exclusão social imposta pela malha urbana. 
 
 ---
 
