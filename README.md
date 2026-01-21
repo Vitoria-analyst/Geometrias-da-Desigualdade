@@ -44,9 +44,8 @@ A análise foi realizada combinando três técnicas de geoprocessamento:
 
 ## 📊 Visualizações
 
-*(Sugestão: Insira aqui as imagens dos mapas comparativos gerados no projeto, especialmente as manchas vermelhas vs. amarelas mostradas no relatório)*
-
-> **Exemplo - São Paulo:** A mancha vermelha representa a área acessível apenas de carro em 30 min. A amarela, acessível por transporte público. A diferença (467km²) ilustra a exclusão social imposta pela malha urbana. 
+![Mapa de Desigualdade em São Paulo](assets/SaoPaulo_panorama.png)
+> **Exemplo - São Paulo:** A mancha vermelha representa a área acessível apenas de carro em 30 min, a diferença (467km²) ilustra a exclusão social imposta pela malha urbana. 
 
 ---
 
