@@ -18,9 +18,9 @@ Utilizando dados do **Censo IBGE 2022** e infraestrutura do **OpenStreetMap (OSM
 
 | Cidade | Arquétipo Urbano | Descoberta Principal | Gap de Acesso (Carro vs. Outros) |
 | :--- | :--- | :--- | :--- |
-| **São Paulo (SP)** | A Metrópole Travada | *Spatial Mismatch*: Empregos no centro, moradia na periferia. | [cite_start]**467 km²** de vantagem para o carro [cite: 441] |
-| **Rio Branco (AC)** | Cidade Média Dependente | Eficiência Seletiva: A cidade flui bem, mas apenas para quem tem carro. | [cite_start]**33 km²** de vantagem para o carro [cite: 460] |
-| **Porto Velho (RO)** | O Potencial Ativo | Múltiplos polos conectados. A bicicleta é altamente eficiente, limitada apenas pelo clima. | [cite_start]**105 km²** de vantagem para a **bicicleta** [cite: 474] |
+| **São Paulo (SP)** | A Metrópole Travada | *Spatial Mismatch*: Empregos no centro, moradia na periferia. | **467 km²** de vantagem para o carro |
+| **Rio Branco (AC)** | Cidade Média Dependente | Eficiência Seletiva: A cidade flui bem, mas apenas para quem tem carro. | **33 km²** de vantagem para o carro |
+| **Porto Velho (RO)** | O Potencial Ativo | Múltiplos polos conectados. A bicicleta é altamente eficiente, limitada apenas pelo clima. | **105 km²** de vantagem para a **bicicleta** |
 
 ---
 
