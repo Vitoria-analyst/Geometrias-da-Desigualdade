@@ -58,7 +58,7 @@ A análise foi realizada combinando três técnicas de geoprocessamento:
 
 ## 👩‍💻 Autoras
 
-* **Vitória Rodrigues**
+* **Vitória Rodrigues** - [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-/)
 
 ---
 *Desenvolvido no âmbito do Mestrado em Ciência de Dados para Ciências Sociais - Universidade de Aveiro*
