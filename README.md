@@ -1,6 +1,6 @@
 # 🗺️ Geometrias da Desigualdade: Análise Espacial de Mobilidade Urbana
 
-> **Uma análise comparativa de acesso e exclusão socioterritorial em cidades brasileiras utilizando PostGIS e Isócronas.**
+> **Uma análise comparativa de acesso e exclusão socioterritorial em cidades brasileiras utilizando QGIS.**
 
 ![PostGIS](https://img.shields.io/badge/PostGIS-Spatial%20SQL-blue)
 ![QGIS](https://img.shields.io/badge/QGIS-Visualisation-green)
